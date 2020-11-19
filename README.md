@@ -9,6 +9,7 @@
   * To see mockup click [here](https://www.figma.com/file/4FFdA5s7zLfk3uFU1mLhWZ/Digits-Demo-%26-Preview-(Copy)?node-id=3%3A0).
   * Code you can find [here](https://github.com/AntonSkliarov/Digits/tree/develop)
 
+*****
 
 ## Miami landing page
 
@@ -18,6 +19,7 @@
   * To see mockup click [here](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new).
     * Code you can find [here](https://github.com/AntonSkliarov/layout_miami/tree/develop)
 
+*****
 
 ## IMDb Movie List
 
