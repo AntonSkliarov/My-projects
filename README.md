@@ -4,7 +4,9 @@
 
 ### IMDb Movie List
 
-You can use this DEMO LINK to browse the movie list and add your favorite movie to it.
+  * Tech stack: HTML5, SASS(scss), JavaScript, React.
+  * You can use this [DEMO LINK](https://antonskliarov.github.io/react_movies-list-fetch-movies/) to browse the movie list and add your favorite movie to it.
+  * Code you can find [here](https://github.com/AntonSkliarov/react_movies-list-fetch-movies)
 
 #### Description
 
@@ -16,10 +18,10 @@ You can use this DEMO LINK to browse the movie list and add your favorite movie 
 
 ##### Installing
 
-  * Fork and clone this repository
-  * Run `npm install` in your terminal
-  * Run `npm install classnames --save` in your terminal
-  * Run `npm start`
+1. Fork and clone this repository
+2. Run `npm install` in your terminal
+3. Run `npm install classnames --save` in your terminal
+4. Run `npm start`
 
 *****
 
