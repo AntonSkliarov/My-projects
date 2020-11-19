@@ -43,4 +43,4 @@
   * Fully responsive layout was made by using CSS Flexbox. (mobiles, tablets, laptops, high screen).
   * Click [link](https://antonskliarov.github.io/layout_miami/) to see DEMO.
   * To see mockup click [here](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new).
-    * Code you can find [here](https://github.com/AntonSkliarov/layout_miami/tree/develop)
+  * Code you can find [here](https://github.com/AntonSkliarov/layout_miami/tree/develop)
