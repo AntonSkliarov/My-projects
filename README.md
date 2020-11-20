@@ -20,8 +20,7 @@
 
 1. Fork and clone this repository
 2. Run `npm install` in your terminal
-3. Run `npm install classnames --save` in your terminal
-4. Run `npm start`
+3. Run `npm start`
 
 *****
 
