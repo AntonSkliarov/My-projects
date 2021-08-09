@@ -2,8 +2,8 @@
 
 ### Spotify App 	:musical_note:
 
-For demo click [HERE](https://antonskliarov.github.io/spotify-app/)
-Code you can find [here](https://github.com/AntonSkliarov/spotify-app)
+  * For demo click [HERE](https://antonskliarov.github.io/spotify-app/)
+  * Code you can find [here](https://github.com/AntonSkliarov/spotify-app)
 
 #### Tech stack
 
@@ -24,8 +24,8 @@ Code you can find [here](https://github.com/AntonSkliarov/spotify-app)
 
 ### Last FM :headphones:
 
-For DEMO click [HERE](https://antonskliarov.github.io/last-fm/#/)
-Code you can find [here](https://github.com/AntonSkliarov/last-fm)
+  * For DEMO click [HERE](https://antonskliarov.github.io/last-fm/#/)
+  * Code you can find [here](https://github.com/AntonSkliarov/last-fm)
 
 #### Tech stack
 
