@@ -21,7 +21,7 @@ For demo click [HERE](https://antonskliarov.github.io/spotify-app/)
 *****
 
 
-:headphones: ### Last FM :headphones:
+### Last FM :headphones:
 
 For DEMO click [HERE](https://antonskliarov.github.io/last-fm/#/)
 
@@ -43,7 +43,7 @@ For DEMO click [HERE](https://antonskliarov.github.io/last-fm/#/)
 *****
 
 
-### IMDb Movie List
+### IMDb Movie List :clapper:
 
   * Tech stack: HTML5, SASS(scss), JavaScript, React.
   * You can use this [DEMO LINK](https://antonskliarov.github.io/react_movies-list-fetch-movies/) to browse the movie list and add your favorite movie to it.
@@ -66,7 +66,7 @@ For DEMO click [HERE](https://antonskliarov.github.io/last-fm/#/)
 *****
 
 
-### Digits landing page
+### Digits landing page :man_dancing:
 
   * Tech stack: HTML5, SASS, JS(mobile menu), BEM methodology.
   * Fully responsive layout was made by using CCS Grid and Flexbox (mobiles, tablets, laptops, high screen).
@@ -77,7 +77,7 @@ For DEMO click [HERE](https://antonskliarov.github.io/last-fm/#/)
 *****
 
 
-### Miami landing page
+### Miami landing page :houses:
 
   * Tech stack: HTML5, SASS, BEM methodology.
   * Fully responsive layout was made by using CSS Flexbox. (mobiles, tablets, laptops, high screen).
