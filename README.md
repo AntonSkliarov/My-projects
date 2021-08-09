@@ -1,6 +1,6 @@
 # My-projects
 
-### Spotify App
+### Spotify App 	:musical_note:
 
 For demo click [HERE](https://antonskliarov.github.io/spotify-app/)
 
