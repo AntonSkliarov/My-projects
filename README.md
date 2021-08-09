@@ -21,7 +21,7 @@ For demo click [HERE](https://antonskliarov.github.io/spotify-app/)
 *****
 
 
-### Last FM
+:headphones: ### Last FM :headphones:
 
 For DEMO click [HERE](https://antonskliarov.github.io/last-fm/#/)
 
