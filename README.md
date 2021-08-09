@@ -1,5 +1,46 @@
 # My-projects
 
+### Spotify App
+
+For demo click [HERE](https://antonskliarov.github.io/spotify-app/)
+
+#### Tech stack
+
+  * HTML5
+  * SASS
+  * TypeScript
+  * React (v.17.0.1)
+
+##### Installing
+
+1. Fork and clone this repository
+2. Run `npm install` in your terminal
+3. Run `npm start`
+4. Open `http://localhost:3000/` at your browser
+
+*****
+
+
+### Last FM
+
+For DEMO click [HERE](https://antonskliarov.github.io/last-fm/#/)
+
+#### Tech stack
+
+  * HTML5
+  * Bulma, SCSS
+  * JavaScript
+  * React (v.17.0.1), React Router
+  * Redux, Redux thunk
+
+##### Installing
+
+1. Fork and clone this repository
+2. Run `npm install` in your terminal
+3. Run `npm start`
+4. Open `http://localhost:3000/` at your browser
+
+*****
 
 
 ### IMDb Movie List
